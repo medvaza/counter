@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">counter</string>
+    <string name="pause_activity">your.package.name.R</string>
+    <string name="resume_activity">your.package.name.R</string>
+</resources>
